@@ -1,4 +1,4 @@
-package sample_mavne_project;
+package sample_maven_project;
 
 /**
  * Hello world!
