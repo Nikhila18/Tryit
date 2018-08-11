@@ -1,4 +1,4 @@
-package sample_mavne_project;
+package sample_maven_project;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
