@@ -5,7 +5,10 @@
   <artifactId>sample_maven</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
-  <name>samp[le_maven</name>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <name>sample_maven</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
