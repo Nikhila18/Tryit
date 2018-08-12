@@ -17,10 +17,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-<<<<<<< HEAD
-	  </dependency>
-=======
->>>>>>> b4aac74ee369fecce6fa56f07ba57a81d553164a
    </dependencies>
    <build>
        <resources>
@@ -30,26 +26,16 @@
                   <include>**/*.java</include>
                   </includes> 
 	       </resource>
-<<<<<<< HEAD
-	   </resources>
-=======
 	</resources>
->>>>>>> b4aac74ee369fecce6fa56f07ba57a81d553164a
         <plugins>
 	      <plugin>
 	          <groupId>org.apache.maven.plugins</groupId>
                   <artifactId>maven-resources-plugin</artifactId>
                   <version>2.6</version>
 	      </plugin>
-<<<<<<< HEAD
 	    </plugins>
 	  
    </build> 
 
-=======
-	 </plugins>
-	  
-   </build> 
->>>>>>> b4aac74ee369fecce6fa56f07ba57a81d553164a
   
 </project>
